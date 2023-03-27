@@ -430,7 +430,7 @@ void RedPiece(RenderWindow& window)
   font.loadFromFile("BUTTERSHINE SERIF.otf");
 
   Text text;
-  text.setPosition(650, 400);
+  text.setPosition(650, 400);      
   text.setFont(font);
   text.setFillColor(Color::White);
   text.setCharacterSize(20);
